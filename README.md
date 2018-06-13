@@ -9,4 +9,7 @@ https://github.com/allanes87/XUM
 
 https://github.com/pgonzalezmorelli/Cache-SQLite
 
+
+Más: https://www.meetup.com/XamarinUY/events/250852866/
+
 ![Meetup](https://secure.meetupstatic.com/photos/event/a/b/c/a/highres_472003978.jpeg)
