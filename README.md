@@ -1,5 +1,5 @@
 # Xamarin Mundialista
-Meetup Xamarin Mundialista 31/05
+Meetup Xamarin Mundialista 31/05/2018
 
 ## Lxs desarrolladorxs son de Marte, lxs diseñadorxs son de Venus / Alexander Llanes y Victoria Rodriguez
 
