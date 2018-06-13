@@ -8,3 +8,5 @@ https://github.com/allanes87/XUM
 ## Cache con SQLite / Pablo González y Sebastian Cabrera
 
 https://github.com/pgonzalezmorelli/Cache-SQLite
+
+![Meetup](https://secure.meetupstatic.com/photos/event/a/b/c/a/highres_472003978.jpeg)
