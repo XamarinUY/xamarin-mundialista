@@ -1,16 +1,21 @@
 # Xamarin Mundialista
+
 Meetup Xamarin Mundialista 31/05/2018
 
-## Firebase Push Notifications using a .NET backend - Nicolás Bonora
+## Lxs desarrolladorxs son de Marte, lxs diseñadorxs son de Venus / Alexander Llanes y Victoria Rodriguez
 
-Slides: 
+Slides: https://github.com/XamarinUY/xamarin-mundialista/blob/master/Lxs%20desarrolladorxs%20son%20de%20Marte%20y%20lxs%20diseñadorxs%20son%20de%20Venus.pdf
 
-## De Swift a Xamarin en un proyecto open source - Juan Laube
+Code: https://github.com/allanes87/XUM
 
-Slides: 
+## Cache con SQLite / Pablo González y Sebastian Cabrera
 
-##
+Slides: https://github.com/XamarinUY/xamarin-mundialista/blob/master/Cache%20con%20SQLite.pdf
 
-Más: https://www.meetup.com/XamarinUY/events/253657782/
+Code: https://github.com/pgonzalezmorelli/Cache-SQLite
 
-![Meetup](https://secure.meetupstatic.com/photos/event/b/f/3/d/highres_474348957.jpeg)
+## 
+
+Más: https://www.meetup.com/XamarinUY/events/250852866/
+
+![Meetup](https://secure.meetupstatic.com/photos/event/a/b/c/a/highres_472003978.jpeg)
